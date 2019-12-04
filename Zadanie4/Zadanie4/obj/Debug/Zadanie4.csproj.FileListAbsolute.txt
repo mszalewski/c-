@@ -1,0 +1,6 @@
+C:\Users\mirek\Desktop\Dotnet\kolos\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\mirek\Desktop\Dotnet\kolos\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\mirek\Desktop\Dotnet\kolos\Zadanie4\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\mirek\Desktop\Dotnet\kolos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+C:\Users\mirek\Desktop\Dotnet\kolos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\mirek\Desktop\Dotnet\kolos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.pdb
